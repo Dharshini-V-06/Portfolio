@@ -31,3 +31,9 @@ Artificial Intelligence, and Machine Learning**.
 - Contact Information  
 
 ---
+## Portfolio
+<img width="1881" height="1000" alt="image" src="https://github.com/user-attachments/assets/1ec4ef52-a273-4125-8d1f-af5082f429e1" />
+
+<img width="1882" height="997" alt="image" src="https://github.com/user-attachments/assets/8ab1a947-58df-4a58-bcad-2bcbb03fddc1" />
+
+<img width="1882" height="999" alt="image" src="https://github.com/user-attachments/assets/961a8ed1-921c-4042-ad89-6024c64f8803" />
